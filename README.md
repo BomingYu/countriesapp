@@ -1,1 +1,1 @@
-![Home Page](./assets/reportImages/Home.jpg)
+<img src="./assets//reportImages//Home.jpg" alt="Screenshot 1" width="200">
