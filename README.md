@@ -5,6 +5,7 @@
 CountryApp is a simple mobile application that supports web, Android, and iOS devices. The app is developed using Expo tools and React Native.
 
 ### Backend Data Source
+
 The app utilizes an external API (https://sampleapis.com/api-list/countries) as the backend data source to fetch basic information about countries.
 
 ## 2. Features
@@ -21,22 +22,25 @@ Emblem
 Location
 
 ## 3. Screens
-### Default Display
-<img src="./assets//reportImages//Home.jpg" alt="Screenshot 1" width="200">
 
-### Sorted alphabetically by country name
-<img src="./assets//reportImages//sortName.jpg" alt="Screenshot 1" width="200">
+### Default Display / Sorted alphabetically by country name / Sort by country name in reverse order
 
-### Sort by country name in reverse order
-<img src="./assets//reportImages//SortReName.jpg" alt="Screenshot 1" width="200">
+<div style="display: flex; justify-content: center;">
+    <img src="./assets//reportImages//Home.jpg" alt="Screenshot 1" width="200" style="margin-right: 10px;">
+    <img src="./assets//reportImages//sortName.jpg" alt="Screenshot 1" width="200" style="margin-right: 10px;">
+    <img src="./assets//reportImages//SortReName.jpg" alt="Screenshot 1" width="200">
+</div>
 
-### Sort by country population
-<img src="./assets//reportImages//SortPopu.jpg" alt="Screenshot 1" width="200">
+### Sort by country population / Sort by country population in reverse order
+<div style="display: flex; justify-content: center;">
+    <img src="./assets//reportImages//SortPopu.jpg" alt="Screenshot 1" width="200" style="margin-right: 10px;">
+    <img src="./assets//reportImages//sortRepopu.jpg" alt="Screenshot 1" width="200">
+</div>
 
-### Sort by country population in reverse order
-<img src="./assets//reportImages//sortRepopu.jpg" alt="Screenshot 1" width="200">
+### Details of a country page by clicking
 
-### Details of a country page by clicking 
-<img src="./assets//reportImages//country.jpg" alt="Screenshot 1" width="200">
-<img src="./assets//reportImages//country1.jpg" alt="Screenshot 1" width="200">
-<img src="./assets//reportImages//country2.jpg" alt="Screenshot 1" width="200">
+<div style="display: flex; justify-content: center;">
+    <img src="./assets/reportImages/country.jpg" alt="Screenshot 1" width="200" style="margin-right: 10px;">
+    <img src="./assets/reportImages/country1.jpg" alt="Screenshot 2" width="200" style="margin-right: 10px;">
+    <img src="./assets/reportImages/country2.jpg" alt="Screenshot 3" width="200">
+</div>
