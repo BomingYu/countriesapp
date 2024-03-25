@@ -24,7 +24,7 @@ export default function CountryCard({ countryId, countryName, countryFlag, onCou
         className="flex items-center w-48 h-48 bg-white justify-center rounded-2xl"
         style={styles.contianer}
       >
-        <Text className="text-lg mb-1">{countryName}</Text>
+        <Text ellipsizeMode='tail' numberOfLines={1} className="text-lg mb-1" style={styles.text}>{countryName}</Text>
         <Image
           style={styles.image}
           source={source}
@@ -43,4 +43,8 @@ const styles = StyleSheet.create({
   image: {
     borderRadius: 30,
   },
+  text:{
+    maxWidth:180, 
+       maxHeight:32,
+  }
 });
