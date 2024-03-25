@@ -11,15 +11,18 @@ The app utilizes an external API (https://sampleapis.com/api-list/countries) as 
 ## 2. Features
 
 Display basic information of 250 countries, including:
-Country name
-Country code
-Capital
-Dialing code
-Population
-Currency name
-Flag
-Emblem
-Location
+
+<ul>
+    <li>Country name</li>
+    <li>Country code</li>
+    <li>Capital</li>
+    <li>Dialing code</li>
+    <li>Population</li>
+    <li>Currency name</li>
+    <li>Flag</li>
+    <li>Emblem</li>
+    <li>Location</li>
+</ul>
 
 ## 3. Screens
 
@@ -32,6 +35,7 @@ Location
 </div>
 
 ### Sort by country population / Sort by country population in reverse order
+
 <div style="display: flex; justify-content: center;">
     <img src="./assets//reportImages//SortPopu.jpg" alt="Screenshot 1" width="200" style="margin-right: 10px;">
     <img src="./assets//reportImages//sortRepopu.jpg" alt="Screenshot 1" width="200">
