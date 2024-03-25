@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-CountryApp is a simple mobile application that supports web, Android, and iOS devices. The app is developed using Expo tools and React Native.
+CountryApp is a simple mobile application that supports web, Android, and iOS devices. The app is developed using Expo tools and React Native. 
 
 ### Backend Data Source
 
@@ -23,6 +23,8 @@ Display basic information of 250 countries, including:
     <li>Emblem</li>
     <li>Location</li>
 </ul>
+
+Search functionality may be added in the future.
 
 ## 3. Screens
 
@@ -48,3 +50,18 @@ Display basic information of 250 countries, including:
     <img src="./assets/reportImages/country1.jpg" alt="Screenshot 2" width="200" style="margin-right: 10px;">
     <img src="./assets/reportImages/country2.jpg" alt="Screenshot 3" width="200">
 </div>
+
+## 4. Usage
+
+```bash
+# Clone The Project
+git clone https://github.com/BomingYu/countriesapp.git
+
+# Enter The Project
+cd countriesapp
+
+# Install Dependencies
+npm install
+
+# Start The Application
+npx expo start
