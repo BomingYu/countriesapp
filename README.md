@@ -34,4 +34,9 @@ Location
 <img src="./assets//reportImages//SortPopu.jpg" alt="Screenshot 1" width="200">
 
 ### Sort by country population in reverse order
-<img src="./assets//reportImages//sortRePopu.jpg" alt="Screenshot 1" width="200">
+<img src="./assets//reportImages//sortRepopu.jpg" alt="Screenshot 1" width="200">
+
+### Details of a country page by clicking 
+<img src="./assets//reportImages//country.jpg" alt="Screenshot 1" width="200">
+<img src="./assets//reportImages//country1.jpg" alt="Screenshot 1" width="200">
+<img src="./assets//reportImages//country2.jpg" alt="Screenshot 1" width="200">
