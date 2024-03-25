@@ -5,6 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import HomeScreen from './apps/HomeScreen';
 import AboutScrenn from './apps/AboutScrenn';
 import CountryPage from './apps/CountryPage';
+import DrawerNavigator from './apps/components/DrawerNavigator';
 
 
 const Stack = createNativeStackNavigator();
